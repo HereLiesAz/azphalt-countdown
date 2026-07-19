@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.generator.countdown",
+  "id": "com.hereliesaz.azphalt.countdown",
   "name": "Film Countdown",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "generators": [
       {
-        "id": "countdown",
+        "id": "com.hereliesaz.azphalt.countdown",
         "name": "Film Countdown",
         "entry": "generator"
       }
